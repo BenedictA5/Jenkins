@@ -1,4 +1,4 @@
-package arraysfind;
+
 
 
 public class Arraymaxmin {
