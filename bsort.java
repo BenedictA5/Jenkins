@@ -1,4 +1,4 @@
-package sorting;
+
 
 public class bsort {
 	public static void busort(int[] arr,int n) {
