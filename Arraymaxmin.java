@@ -1,7 +1,7 @@
 package arraysfind;
 
 
-public class Array {
+public class Arraymaxmin {
 	
 
 
@@ -29,10 +29,10 @@ public class Array {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr = {4,6,7,2,8}; 
-		Array obj = new Array();
-		System.out.println(Array.Min(arr));
+		Arraymaxmin obj = new Arraymaxmin();
+		System.out.println(Arraymaxmin.Min(arr));
 		//since Min and Max are static methods we can call them method using class name
-		System.out.println(Array.Max(arr));
+		System.out.println(Arraymaxmin.Max(arr));
 	}
 
 }
