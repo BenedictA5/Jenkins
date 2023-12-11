@@ -1,5 +1,6 @@
 package arraysfind;
 
+
 public class Array {
 	
 
